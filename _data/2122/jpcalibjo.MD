@@ -5,4 +5,5 @@ about_me
 
 hugot_lines/other_stuffs
 > "As long as you firmly believe that you are on the right path... everything has meaning." - Zhongli (Genshin Impact).
+
 > "It sure isn't all sunshine and rainbows, but there are people who taught me to never give up. They've been guiding me and showing me all the beautiful things in this world. I love them, and I love what they love." - Kiana Kaslana (Honkai Impact).
