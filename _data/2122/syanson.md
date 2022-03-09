@@ -1,4 +1,4 @@
-Hey! Hey Hey! :zap: </h3>
+Hey! Hey Hey! :zap:
 ***
 About Me
 >  :information_desk_person: Hiii! I'm Shayne. <br>
