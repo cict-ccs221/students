@@ -8,7 +8,7 @@ Mabuhay, Holla, 안녕 👋
  > 2. Woodworking 🪓
  > 3. Coding 💻
  > 4. Reading 📚
- > 5. and many more 😉. 
+ > 5. and many more 😉
 
 #### My Pickup Line
 > "I never knew the meaning of 'Hello World', until I heard your sweet 'Hello', and I immediately knew that you are my 'World'." - Kyle Billones, 2022
