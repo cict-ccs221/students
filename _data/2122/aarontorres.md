@@ -1,4 +1,4 @@
-emoji :computer: y'all!
+Hi 😄: y'all!
 ***
 about_me
 >  Hi my name is Aaron, I like to watch Netflix Series and I love to drink coffee. Also, I'm kinda new to Coding, and I'm trying my best to learn fast as possible.
