@@ -5,4 +5,5 @@ about_me
 
 hugot_lines/other_stuffs
 > "This life is mine alone. So I have stopped asking people for directions to places they've never been." - Glennon Doyle
+> 
 >"When you make a mistake, respond to yourself in a loving way rather than a self-shaming way." - Ellie Holcomb
