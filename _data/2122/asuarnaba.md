@@ -1,4 +1,4 @@
-emoji :burger: ka sakon 
+emoji :hamburger: ka sakon 
 ***
 ## About_me
 Annyeong I'm April, I like watching kdrama and listening to music.  <br/> 
