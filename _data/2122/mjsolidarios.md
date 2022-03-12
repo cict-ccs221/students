@@ -1,7 +1,7 @@
-emoji :v: y'all!
+## HELLO Y'ALL! ✨
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Roan H. Jagunap, I like to explore a lot of things that interest me related to trends and at the moment, I am learning how to do crochet.
 
 hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+> "Chase your dreams, but always know the road that will lead you home again." - Roan, JHS Yearbook 2019.
