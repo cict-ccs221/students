@@ -5,14 +5,14 @@ about_me
 
 hugot_lines/other_stuffs
 > "Every moment is a fresh beginning. – T.S Eliot"
-😄 Pronouns 
+
+:grinning: Pronouns 
 >she/her
 
-🏇Hobbies..
-   > -Travelling\
-    -Watching anime\
+:cherry_blossom: Hobbies..
+  > -Watching anime\
     -Reading manga/manhwa\
-    -Baking\
+    -travelling\
 ![Alt text](http://i.imgur.com/dbrWkYU.gif)
 
 :mailbox: How to reach me:
