@@ -1,7 +1,7 @@
-emoji :v: y'all!
+## 🐱‍🏍 Kon'nichiwa Mina-san!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Norberto Pingoy, BSCS 1-B, I love reading books📚, Playing online games🎮, sleeping💤 and digital arts✒️. I want to be a future graphics artist👨🏻‍💻.
 
 hugot_lines/other_stuffs
-> "Never accept the world as it appears to be. Dare to see it for what it could be - Harold Winston (Overwatch)".
+> "Make the right decision, or make the decision right🎇 ".
